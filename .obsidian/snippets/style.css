@@ -1,0 +1,13 @@
+/* vlusk's obsidian css snippet */
+
+body {
+  --text-normal: white;
+  --h1-color: hsl(var(--accent-h), 100%, 80%);
+  --h2-color: hsl(calc(var(--accent-h) + 20), 100%, 80%);
+  --h3-color: hsl(calc(var(--accent-h) + 40), 100%, 80%);
+  --h4-color: hsl(calc(var(--accent-h) + 60), 100%, 80%);
+  --h5-color: hsl(calc(var(--accent-h) + 80), 100%, 80%);
+  --bold-color: #f0a;
+  --code-normal: #fff;
+  --file-header-justify: center;
+}

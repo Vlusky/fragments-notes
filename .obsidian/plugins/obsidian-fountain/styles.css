@@ -1,0 +1,122 @@
+/* Fountain Code Mirror */
+
+.fountain-source-view>.CodeMirror-wrap>.CodeMirror-scroll {
+    padding: 20px !important;
+    position: unset;
+}
+
+.screenplay {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    font: inherit;
+    overflow-y: hidden;
+    vertical-align: baseline;
+}
+
+.screenplay {
+    display: block;
+}
+
+
+/* Styles for Screenplain */
+
+.screenplay {
+    margin: auto;
+    width: 100%;
+    text-align: left;
+    font: 12pt 'Courier Final Draft', 'Courier Screenplay', Courier;
+    padding: 0pt 0 0 0pt;
+    position: static;
+}
+
+.screenplay>header {
+    margin-bottom: 1em;
+    border-bottom: 1px solid black;
+}
+
+.screenplay>footer {
+    margin-top: 1em;
+}
+
+.screenplay>em {
+    font-style: italic;
+}
+
+.screenplay>p .bold {
+    font-weight: bold;
+}
+
+.screenplay>p .italic {
+    font-style: italic;
+}
+
+.screenplay> .centered {
+    text-align: center !important;
+	color: hsl(calc(var(--accent-h) + 180), 100%, 80%) !important;
+}
+
+.screenplay>br {
+    clear: both;
+}
+
+.screenplay>div.action p {
+    margin-top: 1em;
+}
+
+
+/* Dialogue */
+
+.screenplay>.dialogue h4 {
+    text-align: center;
+    color: hsl(calc(var(--accent-h) + 80), 100%, 80%) !important;
+    font-weight: 500 !important;
+    font-size: 18px !important;
+}
+
+.screenplay>.dialogue p {
+    text-align: left;
+    margin-left: 20%;
+}
+
+.underline {
+    text-decoration: underline;
+}
+
+.screenplay>.dialogue .parenthetical {
+    padding-left: 10%;
+}
+
+
+/* Headers */
+
+.screenplay>h3 {
+    text-transform: uppercase;
+    font-weight: bold !important;
+    color: var(--text-accent) !important;
+}
+
+.screenplay>h3:after {
+	content: attr(id);
+	color: rgba(255,255,255,0.5);
+	position: absolute;
+	right: 0px;
+}
+
+.screenplay>h2 {
+	text-align: right;
+}
+
+/* Change mode button */
+
+.fountain-button {
+    background-color: transparent;
+    margin: none;
+    padding: 0px;
+}
+
+.fountain-button:hover {
+    color: var(--text-a);
+    background-color: transparent;
+}

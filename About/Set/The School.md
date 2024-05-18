@@ -1,0 +1,1 @@
+A school [[Ayuki Kazune]] used to attend, which she had moved out from due to the aforementioned stress she's been getting.

@@ -1,0 +1,32 @@
+{
+	"nodes":[
+		{"type":"group","id":"c06a86b265e885f0","x":-620,"y":-233,"width":2440,"height":1451,"color":"4","label":"Characters"},
+		{"type":"group","id":"79c8e366f6c84d86","x":1380,"y":-690,"width":440,"height":325,"color":"6","label":"Set"},
+		{"type":"text","text":"# [[Ayuki Kazune]]","id":"83d6879268174ef2","x":-600,"y":-213,"width":1600,"height":59},
+		{"type":"text","text":"Reference","id":"422c847d952290c5","x":-600,"y":-154,"width":800,"height":50},
+		{"type":"file","file":"Artboard/Concept Art/fragments logo.png","id":"2c9a47bf0578ad5e","x":-631,"y":-965,"width":1031,"height":580},
+		{"type":"file","file":"Artboard/Concept Art/ayuki.png","id":"7f4c84bee2524292","x":-600,"y":-51,"width":400,"height":225},
+		{"type":"file","file":"Artboard/Concept Art/ayuki rooftop scene 2 rev 1.png","id":"d123e8542a2ad49c","x":200,"y":398,"width":400,"height":225},
+		{"type":"file","file":"Artboard/Concept Art/ayuki color variation.png","id":"f59e422573b4a28b","x":-600,"y":174,"width":400,"height":225},
+		{"type":"file","file":"Artboard/Concept Art/ayuki rooftop scene rev 4k.png","id":"87b12eb4163aae5f","x":200,"y":173,"width":400,"height":225},
+		{"type":"file","file":"Artboard/Concept Art/the bridge concept art.png","id":"45dd103e63ce21e2","x":200,"y":-51,"width":400,"height":225},
+		{"type":"text","text":"[[Dream]]","id":"36091cc8371c66d3","x":-600,"y":-101,"width":400,"height":50},
+		{"type":"file","file":"Artboard/Concept Art/sunset irl ayuki 1080.png","id":"2e2395b92e58b551","x":600,"y":173,"width":400,"height":225},
+		{"type":"file","file":"Artboard/Concept Art/ayuki model sheet.png","id":"bb9fb7be753cd820","x":-200,"y":-54,"width":400,"height":471},
+		{"type":"text","text":"# [[Natsume Ueda]]","id":"b24f337d7137a9a6","x":1000,"y":-213,"width":800,"height":59},
+		{"type":"file","file":"Artboard/Concept Art/ayuki settei draft 02.png","id":"359747a6432355e3","x":-200,"y":417,"width":400,"height":300},
+		{"type":"text","text":"[[Reality]]","id":"e82179e8cf0cb2bf","x":-200,"y":-102,"width":400,"height":51},
+		{"type":"text","text":"Concept Art","id":"288db17a2a47470a","x":200,"y":-153,"width":800,"height":50},
+		{"type":"file","file":"Artboard/Concept Art/ayuki model ref.png","id":"884372511f689048","x":-600,"y":399,"width":400,"height":225},
+		{"type":"text","text":"[[Dream]]","id":"b6096afc985e3b71","x":200,"y":-102,"width":400,"height":50},
+		{"type":"text","text":"[[Reality]]","id":"f7b0ca93a6fe5439","x":600,"y":-103,"width":400,"height":51},
+		{"type":"file","file":"Artboard/Concept Art/fragments-ayuki outside night.png","id":"24038a3877c7a641","x":600,"y":-52,"width":400,"height":225},
+		{"type":"text","text":"## [[The Bridge]]","id":"043fcf6b7394283f","x":1400,"y":-670,"width":400,"height":60},
+		{"type":"file","file":"Artboard/Concept Art/color palette and shader.png","id":"f281a2eb1f2d067b","x":1400,"y":-610,"width":400,"height":225},
+		{"type":"file","file":"Artboard/Concept Art/natsume model sheet.png","id":"8f59c8fb629acfd7","x":1000,"y":-51,"width":400,"height":566},
+		{"type":"text","text":"Reference","id":"2a421744e1529ceb","x":1000,"y":-154,"width":400,"height":100},
+		{"type":"file","file":"Artboard/Concept Art/fragments-natsume classroom day 1080.png","id":"6dc4a8320f0ff3d7","x":1400,"y":-52,"width":400,"height":225},
+		{"type":"text","text":"Concept Art","id":"79cd4b79632432d0","x":1400,"y":-154,"width":400,"height":99}
+	],
+	"edges":[]
+}
